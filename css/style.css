@@ -393,7 +393,6 @@ header {
         transform 750ms cubic-bezier(.5, 0, .5, 1),
         opacity 250ms linear;
 }
-
 .portfolio__item:focus {
     position: relative;
     z-index: 2;
