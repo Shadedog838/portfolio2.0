@@ -392,6 +392,9 @@ header {
     transition:
         transform 750ms cubic-bezier(.5, 0, .5, 1),
         opacity 250ms linear;
+    width: 60%;
+    height: 500px;
+    margin: auto;
 }
 .portfolio__item:focus {
     position: relative;
